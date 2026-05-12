@@ -27,21 +27,29 @@ The analysis is carried out using Jupyter Notebook along with Python libraries s
 **Pandas**
 
   import pandas as pd
+  
   pd.read_csv()
+  
   df.count()
+  
   df.isnull().sum()
+  
   df.groupby()
+  
   df.sort_values()
+  
   Data Filtering
 
 **Seaborn**
 
   import seaborn as sns
+  
   sns.heatmap()
 
 **Matplotlib**
 
   import matplotlib.pyplot as plt
+  
   plt.show()
 
 **Project Objectives**
@@ -49,26 +57,39 @@ The analysis is carried out using Jupyter Notebook along with Python libraries s
 **This project answers the following analytical questions:**
 
   1.Show the number of Confirmed, Deaths, and Recovered cases in each region.
+  
   2.Remove all records where Confirmed cases are less than 10.
+  
   3.Find the region with the maximum number of Confirmed cases.
+  
   4.Find the region with the minimum number of Death cases.
+  
   5.Display Confirmed, Deaths, and Recovered cases reported from India till 29-April-2020.
+  
   6.Sort the dataset:By Confirmed cases in ascending order
 
 **Features of the Project**
 
   Data Cleaning
+  
   Missing Value Detection
+  
   Data Filtering
+  
   Data Grouping
+  
   Sorting Operations
+  
   Data Visualization using Heatmaps
+  
   COVID-19 Trend Analysis
 
 **Dataset Information**
 
   Dataset Type: CSV File
+  
   Source: Kaggle
+  
   Records Date: 29-April-2020
 
 **Conclusion**
