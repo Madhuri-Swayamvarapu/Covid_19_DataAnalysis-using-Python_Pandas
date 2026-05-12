@@ -11,10 +11,15 @@ The analysis is carried out using Jupyter Notebook along with Python libraries s
 **Technologies Used**
 
  Python
+ 
  Jupyter Notebook
+ 
  Pandas
+ 
  NumPy
+ 
  Seaborn
+ 
  Matplotlib
 
 **Libraries and Functions Used**
